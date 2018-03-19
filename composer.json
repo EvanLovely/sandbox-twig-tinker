@@ -1,0 +1,11 @@
+{
+    "name": "evan/sandbox-twig-tinker",
+    "autoload": {
+      "psr-4": {
+        "TwigTinker\\": "src/"
+      }
+    },
+    "require": {
+        "twig/twig": "^1"
+    }
+}
